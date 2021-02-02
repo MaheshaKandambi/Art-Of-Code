@@ -1,0 +1,33 @@
+.login-html {
+    text-align: center;
+    position: relative;
+}
+h1{
+    color: #1161ee;
+    text-shadow: 2px 2px #28bed8;
+}
+h1:visited{
+    color: beige;
+}
+
+a:link {
+    color: #28bed8;
+
+  }
+  
+  /* visited link */
+  a:visited {
+    color:  #28bed8;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color:#1161ee;
+    text-shadow: 1px 1px  #28bed8;
+    
+  }
+  
+  /* selected link */
+  a:active {
+    color: #fff;
+  } 
